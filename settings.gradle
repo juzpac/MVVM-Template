@@ -1,2 +1,2 @@
 include ':app'
-rootProject.name = "Passenger App"
+rootProject.name = "MVVM Template"
